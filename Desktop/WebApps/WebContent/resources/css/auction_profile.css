@@ -1,0 +1,78 @@
+
+.content-wrapper {
+	max-width: 1140px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	border: 0px;
+	border-radius: 0px;
+}
+
+.title {
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.auction-ends{
+	color:red;
+}
+
+.bids{
+	background-color:#d4d4d4;
+	padding-bottom:10px;
+}
+.auction-active{
+	color:#ff8000;
+}
+/***************** Images ************************/
+
+/* Main image */
+.image-right>img {
+	height: 250px;
+	transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+}
+
+.image-left >img {
+	opacity: 0.6;
+	transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+}
+
+/************* Rating *****************/
+.starrr{
+	color: #957000;
+	padding-top:25px;
+}
+
+/************* Footer *****************/
+.nav a:hover {
+	background: blue;
+	color: white;
+}
+.price{
+	padding-bottom: 50px;
+}
+.container-fluid{
+	padding-top:20px;
+}
+.description{
+	padding-top:20px;
+}
+
+.map{
+	padding-bottom: 50px;
+}
+.location-detail >h3{
+	color: #004000;
+}
+
+.Location >h4{
+	color: #408080;
+}

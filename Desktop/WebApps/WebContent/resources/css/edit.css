@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+.container .toppad{
+	margin-left:0%;
+}
+
+.container .row .toppad  .panel-heading{
+	color: #ffffff;
+	background: #000040;
+	border-color: #ff0000;
+	text-align:center;
+}
+
+
+
+
+.toppad .panel-info .panel-body {
+	background: #f4f4f4;
+}
+
+.container .row .toppad .panel-info .panel-footer {
+	color: #c0c0c0;
+}
+
+.table .form-control{
+	border-color: #008080;
+}
+
+.image .form-control{
+	border-color: #400040;
+	border:5px;
+	margin:50px;
+}

@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+
+/*		Head	*/
+.table>thead {
+	background: #400040;
+	color: #ffffff;
+}
+
+/*		BodY	*/
+.table>tbody {
+	background-color: #ccc20b;
+}

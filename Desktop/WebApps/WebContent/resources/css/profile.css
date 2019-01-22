@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+.container{
+	margin-top:5%;
+}
+.container .row .toppad .panel-info,
+.container .row .toppad .panel-info .panel-heading{
+	
+	
+}
+
+.toppad .panel-info .panel-heading{
+	color: #ffffff;
+	background:#000040;
+	border-color: #ff0000;
+}
+
+.toppad .panel-info .panel-body{
+	background:#f4f4f4;
+	
+	
+}
+
+.container .row .toppad .panel-info .panel-footer{
+	color:#c0c0c0;
+}

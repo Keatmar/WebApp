@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+
+.text-center {
+	background: #000000;
+	color: #333;
+}
+
+/*		Size	 */
+.navbar-default {
+	margin-top: -10px;
+}
+
+.navbar-nav>li>a {
+	padding: 10px !important;
+	margin-left: 100px;
+	height: 60px;
+}
+
+.navbar {
+	min-height: 10px !important;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	margin-left: 100px;
+	color: #00ff00;
+}
+
+/*		Color	 */
+.navbar-default .navbar-brand {
+	color: #333;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+	{
+	color: #333;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus
+	{
+	color: #333; Sets the text hover color on navbar
+	background: #77;
+}
+
+.navbar-default {
+	background-color: #0000ff;
+	border-color: #400040;
+}
+
+/*	DroopDown	 */
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+	margin: 7%;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-collapse .navbar-nav .dropdown-toggle,
+	.navbar-default .navbar-collapse .navbar-nav .dropdown-toggle:hover {
+	background-color: #e7e7e7;
+	color: #333;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu
+	{
+	background-color:  #e7e7e7;
+	color: #333;
+}
+
+/*	Columns	 */
+.nav>li>a:hover, .nav>li>a:focus {
+	text-decoration: none;
+	background-color:  #e7e7e7; Change rollover cell color here
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #e7e7e7; Change active text color here
+}
+
+.navbar-default  .navbar-right {
+	color: #ffffff;
+
+ a {
+    outline: none;
+    text-decoration: none;
+    color: #333;
+}

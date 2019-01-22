@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.container .row .column {
+	background-color: #ffffff;
+	margin-top:10%;
+	padding: 2vh;
+	position: absolute;	
+	border: 1vh solid navy;
+}
+

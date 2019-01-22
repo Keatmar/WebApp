@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+#description{
+	height:10em;
+	display: inline-block;
+    vertical-align: middle;
+    float: none;
+	
+}
+
+.container .centered-form .column .panel .text-center{
+	color:black;
+	background-color: white;
+}
+
+.container .centered-form .column .panel .description{
+	margin-left:15%;
+	margin-right:15%;
+}
+
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
+}
